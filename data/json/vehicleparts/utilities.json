@@ -3,7 +3,7 @@
     "id": "veh_forge",
     "breaks_into": [
       { "count": [ 4, 5 ], "item": "steel_lump" },
-      { "count": [ 4, 6 ], "item": "steel_chunk" },
+      { "count": [ 4, 6 ], "item": "lc_steel_chunk" },
       { "count": [ 4, 6 ], "item": "scrap" }
     ],
     "categories": [ "utility" ],
@@ -35,7 +35,7 @@
     "id": "veh_kiln",
     "breaks_into": [
       { "count": [ 4, 5 ], "item": "steel_lump" },
-      { "count": [ 4, 6 ], "item": "steel_chunk" },
+      { "count": [ 4, 6 ], "item": "lc_steel_chunk" },
       { "count": [ 4, 6 ], "item": "scrap" }
     ],
     "categories": [ "utility" ],
@@ -90,7 +90,7 @@
     "size": "5 L",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 4, 7 ] },
-      { "item": "steel_chunk", "count": [ 3, 6 ] },
+      { "item": "lc_steel_chunk", "count": [ 3, 6 ] },
       { "item": "sheet_metal_small", "count": [ 4, 8 ] },
       { "item": "scrap", "count": [ 4, 7 ] },
       { "item": "element", "count": [ 0, 2 ] },

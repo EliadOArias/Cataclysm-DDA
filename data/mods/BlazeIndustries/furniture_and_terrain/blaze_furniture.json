@@ -21,7 +21,7 @@
       "items": [
         { "item": "sheet_metal", "count": [ 1, 4 ] },
         { "item": "sheet_metal_small", "count": [ 8, 12 ] },
-        { "item": "steel_chunk", "count": [ 0, 3 ] },
+        { "item": "lc_steel_chunk", "count": [ 0, 3 ] },
         { "item": "scrap", "count": [ 2, 8 ] },
         { "item": "cable", "charges": [ 1, 2 ] },
         { "item": "hose", "count": 1 },
@@ -54,7 +54,7 @@
       "items": [
         { "item": "sheet_metal", "count": [ 1, 4 ] },
         { "item": "sheet_metal_small", "count": [ 8, 12 ] },
-        { "item": "steel_chunk", "count": [ 0, 3 ] },
+        { "item": "lc_steel_chunk", "count": [ 0, 3 ] },
         { "item": "scrap", "count": [ 2, 8 ] },
         { "item": "cable", "charges": [ 1, 2 ] },
         { "item": "hose", "count": 1 },

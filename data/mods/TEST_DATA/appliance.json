@@ -32,7 +32,7 @@
     "looks_like": "f_floor_lamp",
     "breaks_into": [
       { "item": "cable", "charges": [ 1, 4 ] },
-      { "item": "steel_chunk", "count": [ 0, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 0, 2 ] },
       { "item": "scrap", "count": [ 1, 2 ] }
     ],
     "flags": [ "CIRCLE_LIGHT", "APPLIANCE", "ENABLED_DRAINS_EPOWER", "CTRL_ELECTRONIC" ],
@@ -176,7 +176,7 @@
     "damage_modifier": 80,
     "breaks_into": [
       { "item": "steel_lump", "count": [ 5, 10 ] },
-      { "item": "steel_chunk", "count": [ 5, 10 ] },
+      { "item": "lc_steel_chunk", "count": [ 5, 10 ] },
       { "item": "scrap", "count": [ 5, 10 ] },
       { "item": "medium_storage_battery", "count": [ 1, 2 ] }
     ],

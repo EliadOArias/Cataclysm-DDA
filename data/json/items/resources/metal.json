@@ -260,7 +260,7 @@
     "id": "steel_chunk",
     "type": "AMMO",
     "category": "spare_parts",
-    "name": { "str": "chunk of steel", "str_pl": "chunks of steel" },
+    "name": { "str": "chunk of budget steel", "str_pl": "chunks of budget metal" },
     "description": "A misshapen chunk of steel.  Makes a decent weapon in a pinch, and is also useful for some crafting recipes.",
     "weight": "250 g",
     "volume": "250 ml",
@@ -470,15 +470,27 @@
   {
     "id": "lc_steel_chunk",
     "type": "AMMO",
-    "copy-from": "steel_chunk",
-    "name": { "str": "chunk of mild steel", "str_pl": "chunks of mild steel" },
-    "description": "A misshapen chunk of mild steel.  Makes a decent weapon in a pinch, and is also useful for some crafting recipes.",
-    "material": [ "lc_steel" ]
+    "category": "spare_parts",
+    "name": { "str": "chunk of steel", "str_pl": "chunks of steel" },
+    "description": "A misshapen chunk of steel.  Makes a decent weapon in a pinch, and is also useful for some crafting recipes.",
+    "weight": "250 g",
+    "volume": "250 ml",
+    "//0": "Intended density 7.60g/cm³; was rounded to 8.0g/cm³ due to unitless stats",
+    "//1": "250ml × 8.0 = 2kg -> 500g/unit @ stack 4; but mishapen so weight is only 50% of this",
+    "price": "10 USD",
+    "price_postapoc": "10 cent",
+    "stack_size": 4,
+    "material": [ "steel" ],
+    "symbol": ",",
+    "color": "light_gray",
+    "ammo_type": "components",
+    "qualities": [ [ "HAMMER", 1 ] ],
+    "melee_damage": { "bash": 8 }
   },
   {
     "id": "mc_steel_chunk",
     "type": "AMMO",
-    "copy-from": "steel_chunk",
+    "copy-from": "lc_steel_chunk",
     "name": { "str": "chunk of medium steel", "str_pl": "chunks of medium steel" },
     "description": "A misshapen chunk of medium steel.  Makes a decent weapon in a pinch, and is also useful for some crafting recipes.",
     "material": [ "mc_steel" ]
@@ -486,7 +498,7 @@
   {
     "id": "hc_steel_chunk",
     "type": "AMMO",
-    "copy-from": "steel_chunk",
+    "copy-from": "lc_steel_chunk",
     "name": { "str": "chunk of high steel", "str_pl": "chunks of high steel" },
     "description": "A misshapen chunk of high steel.  Makes a decent weapon in a pinch, and is also useful for some crafting recipes.",
     "material": [ "hc_steel" ]
@@ -494,7 +506,7 @@
   {
     "id": "ch_steel_chunk",
     "type": "AMMO",
-    "copy-from": "steel_chunk",
+    "copy-from": "lc_steel_chunk",
     "name": { "str": "chunk of hardened steel", "str_pl": "chunks of hardened steel" },
     "description": "A misshapen chunk of hardened steel.  Makes a decent weapon in a pinch, and is also useful for some crafting recipes.",
     "material": [ "ch_steel" ]
@@ -502,7 +514,7 @@
   {
     "id": "qt_steel_chunk",
     "type": "AMMO",
-    "copy-from": "steel_chunk",
+    "copy-from": "lc_steel_chunk",
     "name": { "str": "chunk of tempered steel", "str_pl": "chunks of tempered steel" },
     "description": "A misshapen chunk of tempered steel.  Makes a decent weapon in a pinch, and is also useful for some crafting recipes.",
     "material": [ "qt_steel" ]
@@ -1084,7 +1096,7 @@
   {
     "id": "budget_steel_chunk",
     "type": "AMMO",
-    "copy-from": "steel_chunk",
+    "copy-from": "lc_steel_chunk",
     "name": { "str": "chunk of budget steel", "str_pl": "chunks of budget steel" },
     "description": "A misshapen chunk of budget steel.  Makes a decent weapon in a pinch, and is also useful for some crafting recipes.",
     "material": [ "budget_steel" ]

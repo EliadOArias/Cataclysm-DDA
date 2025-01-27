@@ -25,7 +25,7 @@
     "folded_volume": "1250 ml",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 5 ] },
-      { "item": "steel_chunk", "count": [ 2, 5 ] },
+      { "item": "lc_steel_chunk", "count": [ 2, 5 ] },
       { "item": "scrap", "count": [ 2, 5 ] }
     ],
     "requirements": {
@@ -49,7 +49,7 @@
     "folded_volume": "1250 ml",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 5 ] },
-      { "item": "steel_chunk", "count": [ 2, 5 ] },
+      { "item": "lc_steel_chunk", "count": [ 2, 5 ] },
       { "item": "scrap", "count": [ 2, 5 ] }
     ],
     "requirements": {
@@ -77,7 +77,7 @@
     "//1": "20 cm weld to repair per damage quadrant",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 3, 6 ] },
-      { "item": "steel_chunk", "count": [ 3, 6 ] },
+      { "item": "lc_steel_chunk", "count": [ 3, 6 ] },
       { "item": "scrap", "count": [ 3, 6 ] }
     ],
     "requirements": {
@@ -105,7 +105,7 @@
     "//1": "20 cm weld to repair per damage quadrant",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 4, 7 ] },
-      { "item": "steel_chunk", "count": [ 4, 7 ] },
+      { "item": "lc_steel_chunk", "count": [ 4, 7 ] },
       { "item": "scrap", "count": [ 4, 7 ] }
     ],
     "requirements": {

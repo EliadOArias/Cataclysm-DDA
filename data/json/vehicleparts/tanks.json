@@ -65,7 +65,7 @@
     "//": "weld repairs would involve patching up holes, for a medium tank assume 10 cm squares (40 cm weld total)",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 1, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 2 ] }
     ],
     "requirements": {
@@ -94,7 +94,7 @@
     "damage_modifier": 80,
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "//": "weld repairs would involve patching up holes, for a medium tank assume 10 cm squares (40 cm weld total)",
@@ -125,7 +125,7 @@
     "epower": "-40 W",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "//": "weld repairs would involve patching up holes, for a medium tank assume 10 cm squares (40 cm weld total)",
@@ -156,7 +156,7 @@
     "epower": "-80 W",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "//": "weld repairs would involve patching up holes, for a medium tank assume 10 cm squares (40 cm weld total)",
@@ -273,7 +273,7 @@
     "description": "A storage space for holding liquids, mounted inside the cargo or passenger space.  If filled with the appropriate fuel for the vehicle's engine, the engine will automatically draw fuel from the tank when the engine is on.  If filled with water, you can access the water from a water faucet, if one is installed in the vehicle.  You can also use a rubber hose to siphon liquids out of a tank.",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "//": "50 cm weld install. weld repairs would involve patching up holes, for a medium-large tank assume 10 cm squares (40 cm weld total)",
@@ -298,7 +298,7 @@
     "item": "55gal_drum",
     "breaks_into": [
       { "item": "steel_lump", "count": [ 4, 4 ] },
-      { "item": "steel_chunk", "count": [ 2, 4 ] },
+      { "item": "lc_steel_chunk", "count": [ 2, 4 ] },
       { "item": "scrap", "count": [ 2, 10 ] }
     ],
     "flags": [ "FLUIDTANK", "OBSTACLE", "AIRCRAFT_REPAIRABLE_NOPROF" ],
@@ -319,7 +319,7 @@
     "damage_modifier": 80,
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "//": "80 cm weld install. weld repairs would involve patching up holes, for a medium tank assume 10 cm squares (40 cm weld total)",
@@ -350,7 +350,7 @@
     "damage_modifier": 80,
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "requirements": {
@@ -380,7 +380,7 @@
     "damage_modifier": 80,
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "requirements": {
@@ -410,7 +410,7 @@
     "damage_modifier": 80,
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "requirements": {
@@ -440,7 +440,7 @@
     "damage_modifier": 80,
     "breaks_into": [
       { "item": "steel_lump", "count": [ 2, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] },
+      { "item": "lc_steel_chunk", "count": [ 1, 2 ] },
       { "item": "scrap", "count": [ 1, 5 ] }
     ],
     "requirements": {

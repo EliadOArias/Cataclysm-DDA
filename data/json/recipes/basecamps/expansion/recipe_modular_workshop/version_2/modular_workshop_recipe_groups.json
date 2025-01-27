@@ -42,7 +42,7 @@
       { "id": "charcoal_npc", "description": " Craft: Charcoal" },
       { "id": "spike", "description": " Craft: Spike" },
       { "id": "caltrops_glass", "description": " Craft: Glass Caltrops" },
-      { "id": "steel_chunk", "description": " Craft: Steel, Chunk" },
+      { "id": "lc_steel_chunk", "description": " Craft: Steel, Chunk" },
       { "id": "anvil_crude", "description": " Craft: Small Anvil" },
       { "id": "steel_lump", "description": " Craft: Steel, Lump" },
       { "id": "lc_steel_lump", "description": " Craft: Mild Steel, Lump" }

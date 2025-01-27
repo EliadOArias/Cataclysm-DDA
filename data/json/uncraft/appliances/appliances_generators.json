@@ -61,7 +61,7 @@
       [ [ "chunk_rubber", 200 ] ],
       [ [ "scrap", 460 ] ],
       [ [ "nuts_bolts", 300 ] ],
-      [ [ "steel_chunk", 300 ] ]
+      [ [ "lc_steel_chunk", 300 ] ]
     ]
   },
   {

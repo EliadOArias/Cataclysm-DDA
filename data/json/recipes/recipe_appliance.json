@@ -115,7 +115,7 @@
       [ [ "cable", 2 ] ],
       [ [ "amplifier", 1 ] ],
       [ [ "lightstrip_inactive", 1 ], [ "light_bulb", 1 ] ],
-      [ [ "steel_chunk", 1 ] ],
+      [ [ "lc_steel_chunk", 1 ] ],
       [ [ "scrap", 3 ] ]
     ]
   },

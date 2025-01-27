@@ -120,7 +120,7 @@
     "components": [
       [ [ "1cyl_combustion", 1 ], [ "1cyl_combustion_small", 1 ] ],
       [ [ "metal_tank_little", 1 ] ],
-      [ [ "rebar", 2 ], [ "steel_chunk", 4 ] ],
+      [ [ "rebar", 2 ], [ "lc_steel_chunk", 4 ] ],
       [ [ "scrap", 3 ] ]
     ]
   },
@@ -828,7 +828,7 @@
     "components": [
       [ [ "simple_crank", 1 ], [ "foot_crank", 1 ] ],
       [ [ "scrap", 8 ] ],
-      [ [ "steel_chunk", 4 ] ],
+      [ [ "lc_steel_chunk", 4 ] ],
       [ [ "steel_lump", 2 ] ]
     ]
   },
@@ -1397,7 +1397,7 @@
       [ [ "circsaw_off", 1 ] ],
       [ [ "1cyl_combustion_small", 1 ] ],
       [ [ "metal_tank_little", 1 ] ],
-      [ [ "steel_chunk", 6 ], [ "steel_lump", 2 ] ]
+      [ [ "lc_steel_chunk", 6 ], [ "steel_lump", 2 ] ]
     ]
   },
   {
